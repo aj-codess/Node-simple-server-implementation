@@ -1,0 +1,7 @@
+{
+  "main":"server.js",
+  "author":"aj_codes",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

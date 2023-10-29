@@ -1,4 +1,4 @@
-let {gen}=require(`${__dirname}/server_dep.js`);
+let gen=require(`${__dirname}/server_dep.js`);
 const fs=require("node:fs");
 const fs_promises=require("node:fs").promises;
 const path=require("node:path");
